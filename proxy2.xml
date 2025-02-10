@@ -1,0 +1,6 @@
+<config xsi:schemaLocation="http://www.linphone.org/xsds/lpconfig.xsd lpconfig.xsd">
+<section name="proxy_2" overwrite="true">
+	<entry name="lime_server_url" overwrite="true">https://flexisip-staging.linphone.org/lime-server/lime-server.php</entry>
+<entry name="lime_algo" overwrite="true">c25519mlk512,c25519</entry>
+</section>
+</config>
